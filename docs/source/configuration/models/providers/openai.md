@@ -175,6 +175,7 @@ Some other providers and their `baseURL` for reference.
 
 [Groq](https://groq.com/): https://api.groq.com/openai/v1
 [Fireworks](https://fireworks.ai/): https://api.fireworks.ai/inference/v1
+[Cerebras](https://www.cerebras.net/): https://api.cerebras.ai/v1
 
 ```
 
